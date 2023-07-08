@@ -1,4 +1,6 @@
 # Dolphin_Clock
+All you need to download is "Install Dolphin Clock.exe". Feel free to browse the source code.
+
 This software was written by a Dolphin to learn items below and software distribution.
 My gratitude extends to SM-AML for providing inspiration for and the source of the dolphin audio.
 This software is designed to work on Windows 10, other OS have not been tested (I doubt non-windows OS will work).
