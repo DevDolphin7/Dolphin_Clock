@@ -1,6 +1,7 @@
 # Dolphin_Clock
 This software was written by a Dolphin to learn items below and software distribution.
 My gratitude extends to SM-AML for providing inspiration for and the source of the dolphin audio.
+This software is designed to work on Windows 10, other OS have not been tested (I doubt non-windows OS will work).
 
 Learning path for Dolphin Clock!
 Clockv1 - Learning how to make windows .exe from python script
